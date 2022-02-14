@@ -4,7 +4,6 @@
 /* 
 Problem statement: Write a function to find out the largest and smallest number of a given array.
 */
-
 void minMax(int arr[], int n) // arr is array with 'n' elements.
 {
 
@@ -31,7 +30,6 @@ void minMax(int arr[], int n) // arr is array with 'n' elements.
 /* 
 Problem statement: Write a function to find out the numbers greater than the average of the array.
 */
-
 int greaterThanAverage(int arr[], int n) //arr is an array with 'n' elements.
 {
     int count = 0, avg=0;
@@ -57,7 +55,6 @@ int greaterThanAverage(int arr[], int n) //arr is an array with 'n' elements.
     
     return count;
 }
-
 /* 
 Problem statement: Write a function to print the prime numbers in the given array.
 */
@@ -88,7 +85,6 @@ int primeOrNot(int n) //n is the integer to check for prime status
 /* 
 Problem statement: Write a function to find out the largest and smallest number of a given array.
 */
-
 void printPrimes(int arr[], int n) //arr is an array with 'n' elements.
 {
     int count = 0;
@@ -116,7 +112,6 @@ void printPrimes(int arr[], int n) //arr is an array with 'n' elements.
     }
     
 }
-
 
 int main() {
 
