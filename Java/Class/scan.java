@@ -1,5 +1,10 @@
 import java.util.Scanner;
 
+/*
+Program to scan user input
+*/
+
+
 class scan{
     
     public static void main (String args[]) {

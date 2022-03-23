@@ -1,5 +1,9 @@
 class Strings {
     
+/*
+Program to get strings in user input as objects
+*/
+
     public static void main(String args[]) {
 
         student S1 = new student();
